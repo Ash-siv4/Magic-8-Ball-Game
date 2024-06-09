@@ -1,0 +1,15 @@
+---------------------------
+FEATURE 1:
+
+Step-by-step guide:
+
+Set up the responses: We'll create a list of possible responses that the Magic 8-Ball can give.
+Random selection: We'll use Python's random module to select a random response from the list.
+User interaction: We'll prompt the user to ask a question and then display the random response.
+Implemented in: version1.py
+
+Enhancements:
+Front-end Design: If you want to create a graphical interface, you can use libraries like Tkinter for Python.
+Additional Features: You could add more complex logic, animations, or even sound effects to enhance the user experience.
+This basic implementation will give you a functional Magic 8-Ball game that you can play in the console. Have fun coding and feel free to expand on this idea!
+---------------------------
