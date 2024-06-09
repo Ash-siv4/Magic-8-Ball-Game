@@ -1,4 +1,4 @@
 # Don't display the following on the GitHub repository
-/docs/ideas.txt
+# /docs/ideas.txt
 
 /.vscode
