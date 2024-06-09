@@ -13,3 +13,4 @@ Front-end Design: If you want to create a graphical interface, you can use libra
 Additional Features: You could add more complex logic, animations, or even sound effects to enhance the user experience.
 This basic implementation will give you a functional Magic 8-Ball game that you can play in the console. Have fun coding and feel free to expand on this idea!
 ---------------------------
+FEATURE 2:
