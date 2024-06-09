@@ -1,16 +1,32 @@
 ---------------------------
-FEATURE 1:
+FEATURE 1 - Implemented in: version1.py
 
 Step-by-step guide:
 
 Set up the responses: We'll create a list of possible responses that the Magic 8-Ball can give.
 Random selection: We'll use Python's random module to select a random response from the list.
 User interaction: We'll prompt the user to ask a question and then display the random response.
-Implemented in: version1.py
 
 Enhancements:
 Front-end Design: If you want to create a graphical interface, you can use libraries like Tkinter for Python.
 Additional Features: You could add more complex logic, animations, or even sound effects to enhance the user experience.
-This basic implementation will give you a functional Magic 8-Ball game that you can play in the console. Have fun coding and feel free to expand on this idea!
 ---------------------------
-FEATURE 2:
+FEATURE 2 - Implemented in: index.html, styles.css, script.js
+
+HTML Structure:
+A text input for the user to type their question.
+A button to trigger the shakeBall function.
+A div to display the response from the Magic 8-Ball.
+
+CSS Styling:
+Basic styling to center the content and make it visually appealing.
+
+JavaScript Logic:
+An array of possible responses.
+The shakeBall function:
+Checks if the user has typed a question.
+Selects a random response from the array.
+Displays the response in the designated div.
+
+Xtra:
+Can be expanded with more advanced features, such as animations or additional styling.
