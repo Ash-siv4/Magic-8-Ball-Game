@@ -1,5 +1,6 @@
 # Don't display the following on the GitHub repository
-/docs/ideas.txt
+# /docs/ideas.txt
 
 /.vscode
 /docs/feature1.txt
+/docs/feature2.txt
