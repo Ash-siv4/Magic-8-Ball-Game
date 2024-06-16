@@ -1,0 +1,6 @@
+# Don't display the following on the GitHub repository
+# /docs/ideas.txt
+
+/.vscode
+
+/code_base/__pycache__
