@@ -30,3 +30,7 @@ Displays the response in the designated div.
 
 Xtra:
 Can be expanded with more advanced features, such as animations or additional styling.
+---------------------------
+FEATURE 3 - Implemented in: index2.html, styles2.css, script2.js and app.py
+
+Final version
